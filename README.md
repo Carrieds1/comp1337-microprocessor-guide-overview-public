@@ -29,7 +29,7 @@ The aim was to create the kind of resource I wished existed at the time, one tha
   - Problem-solving strategies
 - Designed as a combination of:
   - guided explanations  
-  - alternative approaches to understanding instruction usage  
+  - alternative approaches of instruction usage to deepen understanding and target wider audiences  
   - bite-sized clarifications for commonly misunderstood concepts  
 - Includes:
   - a detailed walkthrough of the thought process used to solve microprocessor challenge problems  
